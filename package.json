@@ -2,7 +2,7 @@
   "name": "insight-api-joli",
   "description": "A JoliCoin blockchain REST and web socket API service for Bitcore Node.",
   "version": "0.4.3",
-  "repository": "git://github.com/LIMXTEC/insight-api-joli.git",
+  "repository": "git://github.com/dalijolijo/insight-api-joli.git",
   "contributors": [
     {
       "name": "Gustavo Cortez",
@@ -41,14 +41,14 @@
       "email": "jack@z.cash"
     },
     {
-      "name": "LIMXTEC",
+      "name": "dalijolijo",
       "email": "tessjonesie@gmail.com"
     }
   ],
   "bugs": {
-    "url": "https://github.com/LIMXTEC/insight-api-joli/issues"
+    "url": "https://github.com/dalijolijo/insight-api-joli/issues"
   },
-  "homepage": "https://github.com/LIMXTEC/insight-api-joli",
+  "homepage": "https://github.com/dalijolijo/insight-api-joli",
   "license": "MIT",
   "keywords": [
     "insight",
@@ -69,8 +69,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "bitcore-lib-joli": "git://github.com/LIMXTEC/bitcore-lib-joli#master",
-    "bitcore-message-joli": "git://github.com/LIMXTEC/bitcore-message-joli#master",
+    "bitcore-lib-joli": "git://github.com/dalijolijo/bitcore-lib-joli#master",
+    "bitcore-message-joli": "git://github.com/dalijolijo/bitcore-message-joli#master",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
